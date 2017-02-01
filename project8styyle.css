@@ -1,0 +1,17 @@
+.days{
+		font-weight:bold;
+		background-color:yellow;
+		border-collapse: bolder;
+}
+
+.number{
+		color: blue;
+}
+
+.width{ 
+		width:650px;
+}
+
+body{
+		font-family: Verdana;
+}

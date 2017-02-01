@@ -1,0 +1,36 @@
+.days{
+		font-weight:bold;
+		background-color:yellow;
+}
+
+table{
+		border-collapse: collapse;
+		width:650px;
+		margin: auto;
+		border-style: dotted;
+		border-color: blue;
+		text-align: center;
+}
+
+.number{
+		color: blue;
+}
+
+body{
+		font-family: Verdana;
+}
+
+th{
+		border-width:3px;
+		border-style:solid;
+		border-color:black;
+}
+
+.temp{ 
+		color: red;
+}
+
+td{
+		border-style: dotted;
+		border-color: blue;
+}
